@@ -4,7 +4,7 @@ terraform {
 
   backend "remote" {
     hostname     = "FILL ME"
-    organization = "FILL ME"
+    organization = "example-terraform-local"
     workspaces {
       name = "technical-challange"
     }
