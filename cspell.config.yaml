@@ -1,0 +1,13 @@
+version: "0.2"
+ignorePaths: []
+dictionaryDefinitions: []
+dictionaries:
+  - en_US
+  - softwareTerms
+ignoreWords:
+  - tflint
+import: []
+language: en
+enabled: true
+enableFiletypes:
+  - terraform

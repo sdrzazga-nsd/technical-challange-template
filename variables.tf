@@ -1,5 +1,5 @@
 variable "my_github_token" {
   type        = string
-  description = "The users PAT"
+  description = "(Required) The users PAT for GitHub."
   sensitive   = true
 }

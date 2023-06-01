@@ -11,8 +11,14 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "hashicorp.terraform"
-            ]
+				"hashicorp.terraform",
+				"ms-vscode-remote.remote-containers",
+				"GitHub.codespaces",
+				"github.vscode-github-actions",
+				"GitHub.vscode-pull-request-github",
+				"EditorConfig.EditorConfig",
+				"streetsidesoftware.code-spell-checker"
+			]
         }
     },
     "hostRequirements": {
