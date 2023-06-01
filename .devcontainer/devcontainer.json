@@ -6,7 +6,8 @@
             "version": "latest",
             "tflint": "latest",
             "terragrunt": "none"
-        }
+        },
+        "ghcr.io/devcontainers/features/github-cli": "latest"
     },
     "customizations": {
         "vscode": {
